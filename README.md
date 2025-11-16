@@ -23,4 +23,5 @@ Time-based sales trends
 • Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.  
 • File Format – .pbix for development and .png for dashboard previews.  
 
-Screenshot-https://github.com/AnujTiwari27/Blinkit-Sales-Dashboard/blob/main/Dashboard%20screenshot.png
+Screenshot-https://github.com/AnujTiwari27/Blinkit-Sales-Dashboard/blob/main/Dashboard%20screenshot.png  
+![Dashboard Preciew](https://github.com/AnujTiwari27/Blinkit-Sales-Dashboard/blob/main/Dashboard%20screenshot.png)
