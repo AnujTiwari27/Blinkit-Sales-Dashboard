@@ -8,15 +8,11 @@ This project focuses on building an end-to-end data analytics solution for Blink
 
 The dashboard highlights:
 
-Product-wise sales performance
-Category demand patterns
-
-Customer purchase trends
-
-Outlet performance comparison
-
-Revenue breakdown & profit insights
-
+Product-wise sales performance  
+Category demand patterns  
+Customer purchase trends  
+Outlet performance comparison  
+Revenue breakdown & profit insights  
 Time-based sales trends
 
  The dashboard was built using the following tools and technologies:
